@@ -8,3 +8,9 @@ Our web servers are CentOS and run LiteSpeed Enterprise web server, with Cyberpa
 
 Our mail servers are Ubuntu and are running our customised version of Mail-in-a-box. 
 
+Changelog
+
+18/05/20
+
+Updated MIAB 1.04 -> 1.05 
+(including Rouncube update 1.4.2 -> 1.4.4)
