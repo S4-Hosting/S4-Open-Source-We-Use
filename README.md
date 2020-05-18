@@ -13,4 +13,4 @@ Changelog
 18/05/20
 
 Updated MIAB 1.04 -> 1.05 
-(including Rouncube update 1.4.2 -> 1.4.4)
+(including Roundcube update 1.4.2 -> 1.4.4)
