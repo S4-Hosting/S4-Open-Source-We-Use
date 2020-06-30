@@ -4,13 +4,20 @@ Changelog for the services and systems we use to run S4 Sustainable Hosting
 
 At S4 we believe in accountability, transparancy and open source software. We also believe in a lot of other things, but those are the most relevant to this document. We have chosen to make this changelog publicly visible so you can see how we are running and constantly developing our hosting platform. 
 
+Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, with backups and utilities hosted at a sustainable Ineterxion data centre.
+
 * Our web servers are CentOS and run LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
 * Our mail servers are Ubuntu and are running our customised version of Mail-in-a-box. 
-* Our analytics servers are CentOS, running OpenLiteSpeed and Matomo analytics
+* Our analytics servers are CentOS, running OpenLiteSpeed and Matomo analytics.
+* Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
 
 ### Changelog 
 
-Major OS and software component updates listed only.
+Major OS, infrastructure, and software component updates listed only.
+
+27/06/20
+
+Moved backup servers from Frankfurt to Amsterdam 
 
 11/06/20
 
