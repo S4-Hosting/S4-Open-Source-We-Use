@@ -12,16 +12,20 @@ Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, 
 * Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
 
 ### Changelog 
-
 Major OS, infrastructure, and software component updates listed only.
+
+29/06/20
+
+Implemented new uptime monitoring and status page system, based on Statping
 
 27/06/20
 
-Moved backup servers from Frankfurt to Amsterdam 
+Moved backup servers from Frankfurt to Amsterdam
+(data centre has better PUE rating)
 
 11/06/20
 
-Updated MIAB 1.05 -> 1.06 
+Updated MIAB 0.45 -> 0.46 
 (to address Roundcube security vulnerability)
 
 8/06/20
@@ -35,5 +39,5 @@ Updated Maria DB on webservers -> 10.4.13
 
 18/05/20
 
-Updated MIAB 1.04 -> 1.05 
+Updated MIAB 0.44 -> 0.45 
 (including Roundcube update 1.4.2 -> 1.4.4)
