@@ -27,9 +27,11 @@ Running and maintaining a mail server with high deliverabilty is hard and time c
 #### Open LiteSpeed - https://github.com/litespeedtech/openlitespeed
 LiteSpeed is great, both OLS and Enterprise LSWS. They are what all of our web servers run on. It's not a decision that we took lightly, having run tests on Apache and Nginx as well, but one that had a clear winner for us.
 
-#### Cyberpanel - https://github.com/usmannasir/cyberpanel
+#### CyberPanel - https://github.com/usmannasir/cyberpanel
 Is CyberPanel perfect, is each update entirely free of bugs, is it more fully featured than all of the other control panels out there, is the UI beautiful? No, to all of those. It is developing very quickly with devs who do actually listen, becoming more stable and feature-rich all the time, and is the native control panel for LiteSpeed, which makes it an obvious choice for us. 
 
+#### MainWP - https://github.com/mainwp/mainwp
+We administer a lot of WordPress sites and we've built our own process and system for keeping tabs on updates, security issues, backups, etc. across our own and clients sites. At the core of this we use MainWP, which is the best solution we've found for remotely administering multiple WP installations. 
 ---
 
 ### ...and ones we are watching
