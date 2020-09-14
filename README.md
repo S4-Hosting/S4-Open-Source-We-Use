@@ -40,6 +40,9 @@ We administer a lot of WordPress sites and we've built our own process and syste
 #### Open Web Analytics - https://github.com/Open-Web-Analytics/Open-Web-Analytics
 We really like the look of OWA but haven't found the time to thoroughly test it out yet. 
 
+#### Plausible Analytics - https://github.com/plausible/analytics/
+Another really interesting ethical analytics solution that we need to find the time to test out thoroughly. 
+
 #### Cachet - https://github.com/CachetHQ/Cachet
 Cachet is the other alternative that we looked at when we chose to run Statping. Neither is perfect for us and it could have gone either way. We will keep an eye on Cachet and won't rule out swtitching in the future. 
 
