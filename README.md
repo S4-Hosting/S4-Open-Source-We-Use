@@ -18,6 +18,8 @@ Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, 
 #### Matomo - https://github.com/matomo-org/matomo
 For all of the obvious data privacy and ownership reasons we don't use Google Analytics or similar, but instead install ethical analytics on our own sustainably hosted servers. There are a few options, Matomo is the best we've found so far. 
 
+*We maintain our own Matomo Tracking plugin for S4 Hosting clients.*
+
 #### Statping - https://github.com/statping/statping
 We want to love Statping so much, it's the uptime monitor and status page generator that we are using at the moment, but it's not quite where we would like it to be
 
@@ -32,6 +34,8 @@ Is CyberPanel perfect, is each update entirely free of bugs, is it more fully fe
 
 #### MainWP - https://github.com/mainwp/mainwp
 We administer a lot of WordPress sites and we've built our own process and system for keeping tabs on updates, security issues, backups, etc. across our own and clients sites. At the core of this we use MainWP, which is the best solution we've found for remotely administering multiple WP installations. 
+
+*We maintain our own fork of the MainWP Child plugin for S4 Hosting clients.*
 
 ---
 
