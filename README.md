@@ -37,6 +37,9 @@ We administer a lot of WordPress sites and we've built our own process and syste
 
 *We maintain our own fork of the MainWP Child plugin for S4 Hosting clients.*
 
+#### Flarum - https://github.com/flarum
+Flarum is modern forum software, similar in many ways to Discourse but written in PHP and much less recource hungry, it's lightweight, fast and extensible. It is currently our go-to forum solution for client sites. 
+
 ---
 
 ### ...and ones we are watching
