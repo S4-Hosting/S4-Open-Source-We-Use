@@ -11,7 +11,7 @@ Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, 
 * Our analytics servers are CentOS, running OpenLiteSpeed and Matomo analytics.
 * Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
 
-(With the upcoming EOL of CentOS 8 now scheduled for the end of 2021 and the change to CentOS Stream, we are currently evaluating our options going forward, with Alma Linux or Rocky Linux looking like the most likely future distros we will be using to replace CentOS 8.)
+*NOTE: With the upcoming EOL of CentOS 8 now scheduled for the end of 2021 and the change to CentOS Stream, we are currently evaluating our options going forward, with Alma Linux or Rocky Linux looking like the most likely future distros we will be using to replace CentOS 8.*
 ---
 
 ### Projects we actively use...
