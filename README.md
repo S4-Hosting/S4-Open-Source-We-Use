@@ -63,5 +63,8 @@ Cachet is the other alternative that we looked at when we chose to run Statping.
 #### Uptimon - https://github.com/RatherLogical/Uptimon
 Another service monitoring and status page solution that we have started looking at, it's a new project, started in December 2020 but under active development and could be a possible replacement for Statping which we are a bit disenchanted with at the moment. 
 
+#### YunoHost - https://github.com/YunoHost
+YunoHost is a really interesting project, an alternative to more traditional hosting control panels that it mainly targetted at people self-hosting. We haven't looked at it very much but it is supported by some organisations that we have a lot of respect for. 
+
 #### Boxbilling - https://github.com/boxbilling/boxbilling
 We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead we use our own solution that works for us but quite honestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source altherantive that we could use to build on then that would be wonderful, but right now there isn't. What there is, is boxbilling, a project that seemed viable and showed a lot of promise about 6 years ago but then seemed to hvae died. It's finally been updated to PHP 7 from 5.6 recently and maybe there is hope that something can rise from it. We wouldn't consider using it for production right now, but we are glad it's still kinda alive. 
