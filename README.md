@@ -63,6 +63,9 @@ Cachet is the other alternative that we looked at when we chose to run Statping.
 #### Uptimon - https://github.com/RatherLogical/Uptimon
 Another service monitoring and status page solution that we have started looking at, it's a new project, started in December 2020 but under active development and could be a possible replacement for Statping which we are a bit disenchanted with at the moment. 
 
+#### SOGo - https://github.com/inverse-inc/sogo
+Our chosen mail server solution comes bundled with RoundCube which is pretty bulletproof and stable and just works, but SOGo is a much prettier option that also seems to have some great functionality and be stable regularly maintained. If we were going to jump to another webmail/groupware client, this would probably be the one. 
+
 #### YunoHost - https://github.com/YunoHost
 YunoHost is a really interesting project, an alternative to more traditional hosting control panels that it mainly targetted at people self-hosting. We haven't looked at it very much but it is supported by some organisations that we have a lot of respect for. 
 
