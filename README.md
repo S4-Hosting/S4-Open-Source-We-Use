@@ -37,7 +37,7 @@ Is CyberPanel perfect, is each update entirely free of bugs, is it more fully fe
 #### WordPress
 We run several of our own sites on WordPress as well as develop WP sites for clients, and offer managed WP hosting. Is it a perfect CMS, is it the fastest, is it x, is it y? No, probably not, but it does power a massive percentage of the web for a reason and it has an ecosystem around it which makes it infinitely flexible. Oh, and for the record, we love Gutenberg. 
 
-*You can also find a list of the WP plugins that we love (and why) here: https://github.com/S4-Hosting/WordPress-Plugins-we-love *
+*You can also find a list of the WP plugins that we love (and why) here:* https://github.com/S4-Hosting/WordPress-Plugins-we-love
 
 #### MainWP - https://github.com/mainwp/mainwp
 We administer a lot of WordPress sites and we've built our own process and system for keeping tabs on updates, security issues, backups, etc. across our own and clients sites. At the core of this we use MainWP, which is the best solution we've found for remotely administering multiple WP installations. 
