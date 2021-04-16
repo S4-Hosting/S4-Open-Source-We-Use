@@ -68,6 +68,9 @@ Another service monitoring and status page solution that we have started looking
 #### SOGo - https://github.com/inverse-inc/sogo
 Our chosen mail server solution comes bundled with RoundCube which is pretty bulletproof and stable and just works, but SOGo is a much prettier option that also seems to have some great functionality and be stable regularly maintained. If we were going to jump to another webmail/groupware client, this would probably be the one. 
 
+#### Caddy - https://github.com/caddyserver/
+The world of web servers gets a bit more murky once you step outside of the Apache / Nginx / LiteSpeed bubble, but there are a lof of other options out there. Caddy is one of them, it's not so known, not widely used, not suitable out of the box for applications like shared hosting, and doesn't have a GUI. Apart from those things it seems great though, taking a deeper dive is on the to-do list. 
+
 #### YunoHost - https://github.com/YunoHost
 YunoHost is a really interesting project, an alternative to more traditional hosting control panels that it mainly targetted at people self-hosting. We haven't looked at it very much but it is supported by some organisations that we have a lot of respect for. 
 
