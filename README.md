@@ -6,7 +6,7 @@ At S4 we believe in accountability, transparency and open source software. We al
 
 Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, with backups and utilities hosted at a sustainable Ineterxion data centre in Amsterdam.
 
-* Our web servers are CentOS and run Open Litespeed or LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
+* Our web servers are Debian and run a mixture of Nginx,Open Litespeed or LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
 * Our mail servers are Ubuntu and are running our customised version of Mail-in-a-box. 
 * Our analytics servers are CentOS, running OpenLiteSpeed and Matomo analytics.
 * Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
@@ -35,6 +35,9 @@ LiteSpeed is great, both OLS and Enterprise LSWS. They are what all of our web s
 
 #### CyberPanel - https://github.com/usmannasir/cyberpanel
 Is CyberPanel perfect, is each update entirely free of bugs, is it more fully featured than all of the other control panels out there, is the UI beautiful? No, to all of those. It is developing very quickly with devs who do actually listen, becoming more stable and feature-rich all the time, and is the native control panel for LiteSpeed, which makes it an obvious choice for us. 
+
+#### ISPConfig
+We are in the process of building a new control panel system across all of our servers using our modified version of ISPConfig. It's not flawless, it lacks things we see as essential like a file manager, but it's definitely one of the best open source solutions to start from. 
 
 #### WordPress
 We run several of our own sites on WordPress as well as develop WP sites for clients, and offer managed WP hosting. Is it a perfect CMS, is it the fastest, is it x, is it y? No, probably not, but it does power a massive percentage of the web for a reason and it has an ecosystem around it which makes it infinitely flexible. Oh, and for the record, we love Gutenberg. 
