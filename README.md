@@ -39,6 +39,9 @@ Is CyberPanel perfect, is each update entirely free of bugs, is it more fully fe
 #### ISPConfig
 We are in the process of building a new control panel system across all of our servers using our modified version of ISPConfig. It's not flawless, it lacks things we see as essential like a file manager, but it's definitely one of the best open source solutions to start from. 
 
+#### Bind
+Sometimes projects get old and fade away, and sometimes they stay relevant and working for what seems like forever. Bind might be pretty ancient these days but it is still one of the best possible options out there when it comes to running DNS servers. 
+
 #### WordPress
 We run several of our own sites on WordPress as well as develop WP sites for clients, and offer managed WP hosting. Is it a perfect CMS, is it the fastest, is it x, is it y? No, probably not, but it does power a massive percentage of the web for a reason and it has an ecosystem around it which makes it infinitely flexible. Oh, and for the record, we love Gutenberg. 
 
@@ -82,4 +85,4 @@ YunoHost is a really interesting project, an alternative to more traditional hos
 #### Boxbilling - https://github.com/boxbilling/boxbilling
 We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead we use our own solution that works for us but quite honestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source altherantive that we could use to build on then that would be wonderful, but right now there isn't.
 
-What there is, is boxbilling, a project that seemed viable and showed a lot of promise about 6 years ago but then seemed to have died. It was finally been updated to PHP 7 from 5.6 a few months ago and maybe there is hope that something can rise from it. We wouldn't consider using it for production right now, but we are glad it's still vaguely alive. 
+What there is, is boxbilling, a project that seemed viable and showed a lot of promise about 6 years ago but then seemed to have died. It was finally been updated to PHP 7 from 5.6 a litle while ago and development right now seems to be picking up pace and interest. We wouldn't consider using it for production right now, but we are glad it's still vaguely alive. 
