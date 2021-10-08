@@ -86,3 +86,15 @@ YunoHost is a really interesting project, an alternative to more traditional hos
 We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead we use our own solution that works for us but quite honestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source altherantive that we could use to build on then that would be wonderful, but right now there isn't.
 
 What there is, is boxbilling, a project that seemed viable and showed a lot of promise about 6 years ago but then seemed to have died. It was finally been updated to PHP 7 from 5.6 a litle while ago and development right now seems to be picking up pace and interest. We wouldn't consider using it for production right now, but we are glad it's still vaguely alive. 
+
+---
+
+### The Climate Strike License
+
+We try to contribute to the open source community where we can. 
+
+When we create something that is a fork of an existing project, then we follow the existing licensing rules where we have to, i.e. GPL software. 
+
+On the other hand, when we create something of our own or continue with a project that gives us the freedom to change the license then we are now using the Climate Strike License for everything. See https://github.com/climate-strike/license
+
+> Climate Strike Software is software that uses the Climate Strike License, a software license that developers can use to prohibit the use of their code by applications or companies that threaten to accelerate climate change through fossil fuel extraction.
