@@ -61,17 +61,35 @@ Flarum is modern forum software, similar in many ways to Discourse but written i
 
 ### ...and ones we are watching
 
+To start out with there are a whoel slew of interesting analytics options. We like Matomo, we use Matomo, but some of these seem pretty great too...
+
 #### Open Web Analytics - https://github.com/Open-Web-Analytics/Open-Web-Analytics
 We really like the look of OWA but haven't found the time to thoroughly test it out yet. 
 
 #### Plausible Analytics - https://github.com/plausible/analytics/
 Another really interesting ethical analytics solution that we need to find the time to test out thoroughly. 
 
+#### Pirsch - https://github.com/pirsch-analytics/pirsch
+Written in Go, Pirsch is yet one more light and privacy focused analytics option.
+
+#### Shynet - https://github.com/milesmcc/shynet
+Shynet is possibly the most interesting to us of the analytics options that we want to investigate more very soon.
+
+There are also interesting alternative status monitors...
+
 #### Cachet - https://github.com/CachetHQ/Cachet
 Cachet is the other alternative that we looked at when we chose to run Statping. Neither is perfect for us and it could have gone either way. We will keep an eye on Cachet and won't rule out swtitching in the future. 
 
 #### Uptimon - https://github.com/RatherLogical/Uptimon
 Another service monitoring and status page solution that we have started looking at, it's a new project, started in December 2020 but under active development and could be a possible replacement for Statping which we are a bit disenchanted with at the moment. 
+
+#### Uptime Kuma- https://github.com/louislam/uptime-kuma
+A pretty new option that is under active development and looking more useful and intereting all of the time. It might not be there and able to everything we need right now, but it's getting there. 
+
+#### Statping-NG - https://github.com/statping-ng/statping-ng
+Fork of Statping, that aims to fix issues and build on the original project, which currently seems to be largely unmaintained.
+
+Plus various other projects...
 
 #### SOGo - https://github.com/inverse-inc/sogo
 Our chosen mail server solution comes bundled with RoundCube which is pretty bulletproof and stable and just works, but SOGo is a much prettier option that also seems to have some great functionality and be stable regularly maintained. If we were going to jump to another webmail/groupware client, this would probably be the one. 
