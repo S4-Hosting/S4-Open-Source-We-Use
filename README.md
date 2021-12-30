@@ -23,9 +23,9 @@ For all of the obvious data privacy and ownership reasons we don't use Google An
 *We maintain our own Matomo Tracking plugin for S4 Hosting clients.*
 
 #### Statping - https://github.com/statping/statping
-We want to love Statping so much, it's the uptime monitor and status page generator that we are using at the moment, but it's not quite where we would like it to be. 
+We want to love Statping so much, it's the uptime monitor and status page generator that we are using at the moment, but it's not quite where we would like it to be. At the time of this update, no commits have been merged to Statping for about 9 months, there is a fork at https://github.com/statping-ng/statping-ng which might be worth checking out of if you want to love it the way we want to. 
 
-*We are open to suggestions for an actively maintained alternative.*
+*We are VERY open to suggestions for an actively maintained alternative.*
 
 #### Mail in a Box - https://github.com/mail-in-a-box/mailinabox
 Running and maintaining a mail server with high deliverabilty is hard and time consuming, but at least you can make sure that setting one up is quick, easy and done right. We love MIAB and it's what we use as a base for all of mail servers. MIAB is actively maintained, focused, and just gets better and better.
