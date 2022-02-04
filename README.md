@@ -40,7 +40,7 @@ Is CyberPanel perfect, is each update entirely free of bugs, is it more fully fe
 For non-LiteSpeed servers, we use a modified version of ISPConfig. It's far from flawless, it lacks things that many people would consider essential (like a file manager) but it does support administrating multiple servers from one installation, and it is definitely one of the best open source solutions to start from. 
 
 #### Cieloj
-Cieloj doesn't actually esixdWe are in the process of buiding a new control panel system across all of our servers using our modifieddCieloj doesn't actually esixversion of ISPConfig. It's not flawless, it lacks things we see as essential like a file manager, but it's definitely one of the best open source solutions to start from. 
+Cieloj doesn't actually exist yet, but it is a work in progress, at the planning stages at least. Cieloj is our own new open source control panel system, which we will be depoloying across all of our servers in the near future. The best of CyberPanel, the best of ISPConfig, light on rescources and with a clear and intiuive interface. 
 
 #### Bind
 Sometimes projects get old and fade away, and sometimes they stay relevant and working for what seems like forever. Bind might be pretty ancient these days but it is still one of the best possible options out there when it comes to running DNS servers. 
