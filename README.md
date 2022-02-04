@@ -37,7 +37,10 @@ LiteSpeed is great, both OLS and Enterprise LSWS. They are what all of our web s
 Is CyberPanel perfect, is each update entirely free of bugs, is it more fully featured than all of the other control panels out there, is the UI beautiful? No, to all of those. It is developing very quickly with devs who do actually listen, becoming more stable and feature-rich all the time, and is the native control panel for LiteSpeed, which makes it an obvious choice for us. 
 
 #### ISPConfig
-We are in the process of building a new control panel system across all of our servers using our modified version of ISPConfig. It's not flawless, it lacks things we see as essential like a file manager, but it's definitely one of the best open source solutions to start from. 
+For non-LiteSpeed servers, we use a modified version of ISPConfig. It's far from flawless, it lacks things that many people would consider essential (like a file manager) but it does support administrating multiple servers from one installation, and it is definitely one of the best open source solutions to start from. 
+
+#### Cieloj
+Cieloj doesn't actually esixdWe are in the process of buiding a new control panel system across all of our servers using our modifieddCieloj doesn't actually esixversion of ISPConfig. It's not flawless, it lacks things we see as essential like a file manager, but it's definitely one of the best open source solutions to start from. 
 
 #### Bind
 Sometimes projects get old and fade away, and sometimes they stay relevant and working for what seems like forever. Bind might be pretty ancient these days but it is still one of the best possible options out there when it comes to running DNS servers. 
