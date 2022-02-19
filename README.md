@@ -2,16 +2,16 @@
 
 A list of the open source services and systems we use to run S4 Sustainable Hosting.
 
-At S4 we believe in accountability, transparency and open source software. We also believe in a lot of other things, but those are the most relevant to this document. We have chosen to make this list publicly visible so you can see how we are running and constantly developing our hosting platform. Some people might argue that this is a bad idea for 'security through obscurity' reasons, but we disagree.  
+At S4 we believe in accountability, transparency, and we are passionate about open source software. We also believe in a lot of other things, but those are the most relevant to this document. We have chosen to make this list publicly visible so you can see how we are running and constantly developing our hosting platform. Some people might argue that this is a bad idea for 'security through obscurity' reasons, but we disagree.  
 
 Our main services are all hosted at the sustainalbe Telia Helsinki Data Centre, with backups and utilities hosted at a sustainable Ineterxion data centre in Amsterdam.
 
-* Our web servers are Debian and run a mixture of Nginx,Open Litespeed or LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
+* Our web servers are Debian or AlmaLinux and run a mixture of Nginx,Open Litespeed or LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
 * Our mail servers are Ubuntu and are running our customised version of Mail-in-a-box. 
-* Our analytics servers are CentOS, running OpenLiteSpeed and Matomo analytics.
+* Our analytics servers are AlmaLinux, running OpenLiteSpeed and Matomo analytics.
 * Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
 
-*NOTE: With the upcoming EOL of CentOS 8 now scheduled for the end of 2021 and the change to CentOS Stream, we have made the decision to put Debian at the centre of our new infrastructure changees, because of the organisation, community and principles that empower it, and it's lack of any kind of corporate ownership. We also love OpenSUSE Leap.*
+*NOTE: Most of our servers were previously running on CentOS 8. When it reached an early EOL and changed to CentOS Stream, we made the decision to put Debian and AlmaLinux at the centre of our new infrastructure changees, because of the organisation, community and principles that empower them, and their lack of any kind of corporate ownership. We also really love OpenSUSE Leap.*
 
 ---
 
