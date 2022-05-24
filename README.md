@@ -103,10 +103,13 @@ The world of web servers gets a bit more murky once you step outside of the Apac
 #### YunoHost - https://github.com/YunoHost
 YunoHost is a really interesting project, an alternative to more traditional hosting control panels that it mainly targetted at people self-hosting. We haven't looked at it very much but it is supported by some organisations that we have a lot of respect for. 
 
-#### Boxbilling - https://github.com/boxbilling/boxbilling
-We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead we use our own solution that works for us but quite honestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source altherantive that we could use to build on then that would be wonderful, but right now there isn't.
+#### FOSSBilling - https://github.com/FOSSBilling/FOSSBilling
+We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead we use our own solution that works for us but quite h
+onestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source altherantive that we could use to build on then that would be wonderful, but right now there isn't.
 
-What there is, is boxbilling, a project that seemed viable and showed a lot of promise about 6 years ago but then seemed to have died. It was finally been updated to PHP 7 from 5.6 a litle while ago and development right now seems to be picking up pace and interest. We wouldn't consider using it for production right now, but we are glad it's still vaguely alive. 
+What there is, is FOSSBilling. This is a new fork of the old Boxbilling project. The Boxbilling project has been effectively dead for a long time now despite very valiant efforts to revive it. The only real solution to be able to drive the project forward and create something that is modern, well maintained, and works was to create a whole new project and brand forked from the original, and FOSSBilling is the result. 
+
+It's still early and we woudldn't consider using it for production right now, but the direction is great, there is active disussion and development, and there are very bright hopes for the future.  
 
 ---
 
