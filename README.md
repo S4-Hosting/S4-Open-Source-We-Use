@@ -9,7 +9,7 @@ Our main services are all hosted at the sustainable Telia Helsinki Data Centre, 
 * Our web servers are Debian or AlmaLinux and run a mixture of Nginx, OpenLitespeed or LiteSpeed Enterprise web server, with Cyberpanel as a control panel. 
 * Our mail servers are Ubuntu and are running our customised version of Mail-in-a-box. 
 * Our analytics servers are AlmaLinux, running OpenLiteSpeed and Matomo analytics.
-* Our utility server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
+* Our utilities server running various monitoring services is Ubuntu and runs Statping as an uptime monitor.
 
 *NOTE: Most of our servers were previously running on CentOS 8. When it reached an early EOL and changed to CentOS Stream, we made the decision to put Debian and AlmaLinux at the centre of our new infrastructure changes, because of the organisation, community and principles that empower them, and their lack of any kind of corporate ownership. We also really love OpenSUSE Leap.*
 
@@ -18,7 +18,7 @@ Our main services are all hosted at the sustainable Telia Helsinki Data Centre, 
 ### Projects we actively use...
 
 #### Matomo - https://github.com/matomo-org/matomo
-For all of the obvious data privacy and ownership reasons we don't use Google Analytics or similar, but instead, install ethical analytics on our own sustainably hosted servers. There are a few options, Matomo is the best we've found so far. 
+For all of the obvious data privacy and ownership reasons we don't use Google Analytics or similar, so instead we install ethical analytics on our own sustainably hosted servers. There are a few options, Matomo is the best we've found so far. 
 
 *We maintain our own Matomo Tracking plugin for S4 Hosting clients.*
 
@@ -28,7 +28,7 @@ We want to love Statping so much, it's the uptime monitor and status page genera
 *We are VERY open to suggestions for an actively maintained alternative.*
 
 #### Mail in a Box - https://github.com/mail-in-a-box/mailinabox
-Running and maintaining a mail server with high deliverability is hard and time-consuming, but at least you can make sure that setting one up is quick, easy and done right. We love MIAB and it's what we use as a base for all of the mail servers. MIAB is actively maintained, focused, and just gets better and better.
+Running and maintaining a mail server with high deliverability is hard and time consuming, but at least you can make sure that setting one up is quick, easy and done right. We love MIAB and it's what we use as a base for all of the mail servers. MIAB is actively maintained, focused, and just gets better and better.
 
 #### Open LiteSpeed - https://github.com/litespeedtech/openlitespeed
 LiteSpeed is great, both OLS and Enterprise LSWS. They are what all of our web servers run on. It's not a decision that we took lightly, having run tests on Apache and Nginx as well, but one that had a clear winner for us.
@@ -40,7 +40,7 @@ Is CyberPanel perfect, is each update entirely free of bugs, is it more fully fe
 For non-LiteSpeed servers, we use a modified version of ISPConfig. It's far from flawless, it lacks things that many people would consider essential (like a file manager) but it does support administrating multiple servers from one installation, and it is definitely one of the best open source solutions to start from. 
 
 #### Cieloj
-Cieloj doesn't actually exist yet, but it is a work in progress, at the planning stages at least. Cieloj is our own new open source control panel system, which we will be deployed across all of our servers in the near future. The best of CyberPanel, the best of ISPConfig, light on resources and with a clear and intiuive interface. 
+Cieloj doesn't actually exist yet, but it is a work in progress, at the planning stages at least. Cieloj is our own new open source control panel system, which we plan to deploy across all of our servers at some point in the future. The best of CyberPanel, the best of ISPConfig, light on resources and with a clear and intiuive interface. 
 
 #### Bind
 Sometimes projects get old and fade away, and sometimes they stay relevant and work for what seems like forever. Bind might be pretty ancient these days but it is still one of the best possible options out there when it comes to running DNS servers. 
@@ -51,7 +51,7 @@ We run several of our own sites on WordPress as well as develop WP sites for cli
 *You can also find a list of the WP plugins that we love (and why) here:* https://github.com/S4-Hosting/WordPress-Plugins-we-love
 
 #### MainWP - https://github.com/mainwp/mainwp
-We administer a lot of WordPress sites and we've built our own process and system for keeping tabs on updates, security issues, backups, etc. across our own and clients' sites. At the core of this, we use MainWP, which is the best solution we've found for remotely administering multiple WP installations. 
+We administer a lot of WordPress sites and we've built our own process and system for keeping tabs on updates, security issues, backups, etc. across our own and clients' sites. At the core of that process we are using MainWP, which is the best solution we've found for remotely administering multiple WP installations. 
 
 *We maintain our own fork of the MainWP Child plugin for S4 Hosting clients.*
 
@@ -64,7 +64,7 @@ Flarum is modern forum software, similar in many ways to Discourse but written i
 
 ### ...and ones we are watching
 
-To start with there is a whole slew of interesting analytics options. We like Matomo, we use Matomo, but some of these seem pretty great too...
+To start with there are a whole slew of interesting analytics options. We like Matomo, we use Matomo, but some of these seem pretty great too...
 
 #### Open Web Analytics - https://github.com/Open-Web-Analytics/Open-Web-Analytics
 We really like the look of OWA but haven't found the time to thoroughly test it out yet. 
@@ -106,7 +106,7 @@ YunoHost is a really interesting project, an alternative to more traditional hos
 #### FOSSBilling - https://github.com/FOSSBilling/FOSSBilling
 We don't actually use any of the usual billing/automation solutions, i.e. WHMS, Blesta. Instead, we use our own solution that works for us but quite honestly could be better and that we are spending a lot of time improving. If there was a reliable, secure open source alternative that we could use to build on then that would be wonderful, but right now there isn't.
 
-What there is, is FOSSBilling. This is a new fork of the old BoxBilling project. The BoxBilling project has been effectively dead for a long time now despite very valiant efforts to revive it. The only real solution to be able to drive the project forward and create something modern, well maintained, and works were to create a whole new project and brand forked from the original, and FOSSBilling is the result. 
+What there is, is FOSSBilling. This is a new fork of the old BoxBilling project. The BoxBilling project has been effectively dead for a long time now despite very valiant efforts to revive it. The only real solution to be able to drive the project forward and create something modern, well maintained, and works was to create a whole new project and brand forked from the original. That is what has now happened and FOSSBilling is the result. 
 
 It's still early and we wouldn't consider using it for production right now, but the direction is great, there is active discussion and development, and there are very bright hopes for the future.  
 
