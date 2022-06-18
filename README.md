@@ -2,7 +2,9 @@
 
 A list of the open source services and systems we use to run S4 Sustainable Hosting.
 
-At S4 we believe in accountability, transparency, and we are passionate about open source software. We also believe in a lot of other things, but those are the most relevant to this document. We have chosen to make this list publicly visible so you can see how we are running and constantly developing our hosting platform. Some people might argue that this is a bad idea for 'security through obscurity' reasons, but we disagree.  
+At S4 we believe in accountability, transparency, and we are passionate about open source software. We also believe in a lot of other things, but those are the most relevant to this document. We have chosen to make this list publicly visible so you can see how we are running and constantly developing our hosting platform. Some people might argue that this is a bad idea for 'security through obscurity' reasons, but we disagree.
+
+**Just a little side note:** *We believe that everyone should be using Free and Open Source Software (FOSS) but that everyone should also understand that the Free in FOSS should refer to liberty and not always to price. If you do use FOSS programs in place of commercial ones then please consider supporting those project, either financially or with time and contributions.*
 
 Our main services are all hosted at the sustainable Telia Helsinki Data Centre, with backups and utilities hosted at a sustainable Interxion data centre in Amsterdam.
 
@@ -15,7 +17,7 @@ Our main services are all hosted at the sustainable Telia Helsinki Data Centre, 
 
 ---
 
-### Projects we actively use...
+## Projects we actively use...
 
 #### Matomo - https://github.com/matomo-org/matomo
 For all of the obvious data privacy and ownership reasons we don't use Google Analytics or similar, so instead we install ethical analytics on our own sustainably hosted servers. There are a few options, Matomo is the best we've found so far. 
@@ -62,7 +64,7 @@ Flarum is modern forum software, similar in many ways to Discourse but written i
 
 ---
 
-### ...and ones we are watching
+## ...and ones we are watching
 
 To start with there are a whole slew of interesting analytics options. We like Matomo, we use Matomo, but some of these seem pretty great too...
 
@@ -112,7 +114,7 @@ It's still early and we wouldn't consider using it for production right now, but
 
 ---
 
-### The Climate Strike License
+## The Climate Strike License
 
 We try to contribute to the open source community where we can. 
 
