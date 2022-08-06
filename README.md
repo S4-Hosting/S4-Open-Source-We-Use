@@ -85,8 +85,8 @@ There are also interesting alternative status monitors...
 #### Cachet - https://github.com/CachetHQ/Cachet
 Cachet is the other alternative that we looked at when we chose to run Statping. Neither is perfect for us and it could have gone either way. We will keep an eye on Cachet and won't rule out switching in the future. 
 
-#### Uptimon - https://github.com/RatherLogical/Uptimon
-Another service monitoring and status page solution that we have started looking at, it's a new project, started in December 2020 but under active development and could be a possible replacement for Statping which we are a bit disenchanted with at the moment. 
+#### ~~Uptimon - https://github.com/RatherLogical/Uptimon~~
+Seemed like a promising status page solution, but seemingly abandoned and completely removed from GH and other sites.
 
 #### Uptime Kuma- https://github.com/louislam/uptime-kuma
 A pretty new option that is under active development and looking more useful and interesting all of the time. It might not be there and able to everything we need right now, but it's getting there. 
