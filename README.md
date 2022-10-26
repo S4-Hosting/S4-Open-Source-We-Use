@@ -82,8 +82,11 @@ Shynet is possibly the most interesting to us of the analytics options that we w
 
 There are also interesting alternative status monitors...
 
-#### Cachet - https://github.com/CachetHQ/Cachet
-Cachet is the other alternative that we looked at when we chose to run Statping. Neither is perfect for us and it could have gone either way. We will keep an eye on Cachet and won't rule out switching in the future. 
+#### ~~Cachet - https://github.com/CachetHQ/Cachet~~
+Cachet was great status page software, but unfortunately hasn't been updated for a few years. 
+
+#### Okazanta - https://github.com/Okazanta/Okazanta-core
+Okazanta is a new fork of the currently unmainted Cachet. It's just starting out but we have high hopes for it. 
 
 #### ~~Uptimon - https://github.com/RatherLogical/Uptimon~~
 Seemed like a promising status page solution, but seemingly abandoned and completely removed from GH and other sites.
