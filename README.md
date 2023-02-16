@@ -17,6 +17,17 @@ Our main services are all hosted at the sustainable Telia Helsinki Data Centre, 
 
 ---
 
+## Projects we donate to...
+
+We believe that the F in FOSS doesn't have to mean monetarily free. That's why we have started making monthly donations to these selected open source projects via [Open Collective](https://opencollective.com/s4-hosting):
+
+* The PHP Foundation
+* Flarum
+* Matomo Analytics
+* FOSSBilling
+
+---
+
 ## Projects we actively use...
 
 #### Matomo - https://github.com/matomo-org/matomo
